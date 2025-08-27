@@ -1,8 +1,6 @@
 Go In Memory Cache
 ================================
 
-# go-in-memory-cache
-
 Go In Memory Cache helps you to cache different data in memory and manage it.
 
 ## Example
