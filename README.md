@@ -12,10 +12,6 @@ package main
 
 import (
   "fmt"
-  "time"
-  "os"
-  "os/signal"
-  "context"
   "github.com/AlexeyErmolenko/go-in-memory-cache"
 )
 
