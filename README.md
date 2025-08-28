@@ -10,7 +10,8 @@ package main
 
 import (
   "fmt"
-  "github.com/AlexeyErmolenko/go-in-memory-cache"
+  
+  cache "github.com/AlexeyErmolenko/go-in-memory-cache"
 )
 
 func main() {
